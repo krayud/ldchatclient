@@ -1,0 +1,12 @@
+#chat{
+width:300px;
+height:150px;
+background-color:#fcfcfc;
+border:1px solid #ddd;
+padding:5px;
+}
+
+#history{
+width:280px;
+height: 100px;
+}
